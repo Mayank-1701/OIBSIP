@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div-div{
+    height: 720px;
+    background-image: url("1.jpg");
+    background-size: 1440px;
+    background-position-y: 250px;
+    background-position-x: 20px;
+    background-repeat: no-repeat; 
+}
+
+.header-nav{
+    color: orangered;
+    font-size: 2rem;
+    margin: 0 4vw;
+    padding: 4vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-select{
+    border-radius: 20px;
+    color: orangered;
+    cursor: pointer;
+}
+
+.main-section-1{
+    height: 480px;
+    color: orangered;
+    margin: 0 4vw;
+    padding: 4vh;
+    text-align: center;
+}
+
+.section-h1{
+    margin: 1rem;
+    /*padding: 1rem;*/
+    font-size: 4rem;
+    color: orangered;
+
+}
+
+.section-h4{
+    margin: 0.75rem;
+    padding: 0.75rem;
+    font-size: 2rem;
+    color: orangered;
+
+}
+
+.section-button{
+    margin: 0.50rem;
+    padding: 0.50rem;
+    color: orangered;
+    border-radius: 40px;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.section-h6{
+    margin: 0.25rem;
+    padding: 0.25rem;
+    font-size: 1rem;
+    color: orangered;
+
+}

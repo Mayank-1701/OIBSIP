@@ -1,1 +1,1 @@
-This is the Task-2 of the Level-1 provided by the Oasis Infobyte as an Internship Task. Here In this task, Personal Portfolio Website is created using Tech-Stack HTML, CSS. This is just a one page website. The website is responsive for all the devices.
+This is the Task-2 of the Level-1 provided by the Oasis Infobyte as an Internship Task. Here In this task, Personal Portfolio Website is created using Tech-Stack HTML, CSS. This is just a one page website.

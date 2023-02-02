@@ -1,4 +1,4 @@
-This is task 3 of level 1 provided by Oasis Infobyte as an Internship Task.. Here, In this task, I have built the Temperature Converter Website where the user will have to input a temperature that should be either in Fahrenheit or in Celsius and then press a "convert" button. After that The converted temperature will then be displayed with the correct unit.
+This is task 3 of level 1 provided by Oasis Infobyte as an Internship Task.. Here, In this task, I have built the Temperature Converter Website where the user will have to input a temperature that should be either in Fahrenheit or in Celsius. After that The converted temperature will then be displayed with the correct unit.
 
 Temperature Converter Website Page
 

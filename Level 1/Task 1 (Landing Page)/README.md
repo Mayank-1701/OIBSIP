@@ -1,4 +1,4 @@
-This is level 1 task 1 provided by Oasis Infobyte as an Internship Task.
+This is task 1 of level 1 provided by Oasis Infobyte as an Internship Task.
 
 Simple Landing Page that demonstrates the fundamental knowledge of HTML, CSS.
 
